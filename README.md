@@ -105,8 +105,7 @@
     <h1>Contact Us</h1>
   </header>
 
-  <section>
-    <form>
+
       <label for="name">Your Name:</label>
       <input type="text" id="name" name="name" required>
 
@@ -117,7 +116,6 @@
       <textarea id="message" name="message" rows="4" required></textarea>
 
       <center><button type="submit">Submit</button>
-    </form>
-  </section>
+   
 
 
